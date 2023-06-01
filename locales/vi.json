@@ -1,0 +1,61 @@
+{
+  "menu": {
+    "home": "Trang chủ",
+    "portfolio": "Hồ Sơ",
+    "members": "Thành Viên",
+    "blogs": "Bài viết"
+  },
+  "home":{
+    "about": {
+      "sub_title": "Giới thiệu công ty",
+      "title": "CHÚNG TÔI LÀ AI",
+      "description1": "BEHEMOTH là một tổ chức chỉ bao gồm các kỹ thuật viên.",
+      "description2": "Viết phần mềm không phải là mục tiêu duy nhất của chúng tôi. Chúng tôi cung cấp các giải pháp từ quan điểm kỹ thuật của mình và cùng phát triển với khách hàng. Tận dụng các đặc điểm thành viên của chúng tôi",
+      "btn_more": "Đọc thêm"
+    },
+    "offer": {
+      "sub_title": "Điểm mạnh và sự độc đáo của chúng tôi",
+      "title": "CHÚNG TÔI CUNG CẤP GÌ",
+      "planning": {
+        "title": "LẬP KẾ HOẠCH",
+        "description": "Hiểu vấn đề và lập kế hoạch giải pháp là những gì chúng tôi giỏi! Hãy cho chúng tôi biết những gì trong tâm trí của bạn."
+      },
+      "technology": {
+        "title": "CÔNG NGHỆ",
+        "description": "Chúng tôi yêu công nghệ! Nhóm của chúng tôi đóng góp cho nhiều phần mềm mã nguồn mở nổi tiếng. Chúng tôi tin rằng sự phát triển của công nghệ sẽ mang lại lợi ích cho khách hàng của chúng tôi."
+      },
+      "take_care": {
+        "title": "SỰ QUAN TÂM",
+        "description": "Tất cả các thành viên trong BEHEMOTH đều thích viết phần mềm, nhưng chúng tôi quan tâm nhiều hơn đến những gì chúng tôi đang giải quyết cùng bạn."
+      }
+    }
+  },
+  "portfolio": {
+    "home": {
+      "title1": "LẬP KẾ HOẠCH",
+      "title2": "CÔNG NGHỆ",
+      "title3": "CỐNG HIẾN"
+    },
+    "introduction": {
+      "title1": "XÂY DỰNG",
+      "title2": "VƯỢT QUA",
+      "title3": "KÌ VỌNG",
+      "who_we_are": "CHÚNG TÔI LÀ AI",
+      "summary": "BEHEMOTH là một tổ chức được tạo thành hoàn toàn bởi các kỹ thuật viên. Mục đích của chúng tôi không chỉ là phát triển phần mềm, mà còn là cung cấp các giải pháp từ quan điểm kỹ thuật và phát triển cùng khách hàng bằng cách tận dụng các điểm mạnh của các thành viên của chúng tôi.",
+      "planing": "TỔ CHỨC",
+      "planing_content": "Chúng tôi tự hào trong việc thấu hiểu các vấn đề của khách hàng và đưa ra các giải pháp phù hợp. Hãy cho chúng tôi biết điều gì khiến bạn thao thức vào ban đêm và chúng tôi sẽ cung cấp cho bạn các giải pháp chính xác mà bạn cần.",
+      "technology": "CÔNG NGHỆ",
+      "technology_content": "Chúng tôi bị mê hoặc bởi công nghệ! Nhóm của chúng tôi đóng góp cho một số dự án phần mềm nguồn mở nổi tiếng. Chúng tôi tin rằng tiến bộ công nghệ sẽ mang lại lợi ích cho khách hàng của chúng tôi về lâu dài.",
+      "dedication": "CỐNG HIẾN",
+      "dedication_content": "Tất cả các thành viên của BEHEMOTH đều thích phát triển phần mềm, nhưng các giải pháp phù hợp cùng với dịch vụ khách hàng tuyệt vời là những gì chúng tôi muốn cung cấp."
+    },
+    "timeline": {
+      "title1": "NGHIÊM KHẮC",
+      "title2": "GIẤC MƠ",
+      "title3": "HIỆN THỰC HOÁ",
+      "time1": "Kỉ niệm 2 năm với 24 thành viên nòng cốt",
+      "time2": "Kỉ niệm 1 năm với 9 thành viên nòng cốt",
+      "time3": "Được thành lập với 2 nhà đồng sáng lập"
+    }
+  }
+}

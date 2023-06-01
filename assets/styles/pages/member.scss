@@ -1,0 +1,50 @@
+.member-banner {
+  position: relative;
+
+  .member {
+    display: flex;
+    justify-content: space-between;
+
+    .image_1 {
+      margin-top: 20px;
+      width: 437px;
+      height: 401px;
+    }
+  }
+
+  .member-text {
+    position: absolute;
+    z-index: 3;
+    left: 25%;
+    top: 20%;
+    width: 40%;
+  }
+}
+
+.body-idea {
+  background: #fff7f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+
+  .idea-text {
+    width: 30%;
+
+    p {
+      white-space: pre-line;
+    }
+  }
+}
+
+@media (max-width: 765px) {
+  .body-idea {
+    .idea-img {
+      width: 100%;
+
+      img {
+        width: 100%;
+      }
+    }
+  }
+}

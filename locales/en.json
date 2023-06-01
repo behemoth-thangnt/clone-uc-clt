@@ -1,0 +1,61 @@
+{
+  "menu": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "members": "Members",
+    "blogs": "Blogs"
+  },
+  "home":{
+    "about": {
+      "sub_title": "Company introduction",
+      "title": "WHO WE ARE",
+      "description1": "BEHEMOTH is an organization consists only of technicians.",
+      "description2": "Writing software is not our only goal. We provide solutions from our technical point of view and grow together with our customers. Taking advantage of our members characteristics.",
+      "btn_more": "Read more"
+    },
+    "offer": {
+      "sub_title": "Our strong point / Originality",
+      "title": "WHAT WE OFFER",
+      "planning": {
+        "title": "PLANNING",
+        "description": "Understanding problems and planning solutions is what we are good at! Let us know what is in your mind."
+      },
+      "technology": {
+        "title": "TECHNOLOGY",
+        "description": "We love technology! Our team contributes to many famous open source softwares. We believe that the evolution of technology would brings benefits to our customers."
+      },
+      "take_care": {
+        "title": "TAKE CARE",
+        "description": "All members in BEHEMOTH love writing software, but we care more about what we are solving with you."
+      }
+    }
+  },
+  "portfolio": {
+    "home": {
+      "title1": "PLANNING",
+      "title2": "TECHNOLOGY",
+      "title3": "DEDICATION"
+    },
+    "introduction": {
+      "title1": "ACQUISITION",
+      "title2": "BEYOND",
+      "title3": "EXPECTATION",
+      "who_we_are": "WHO WE ARE",
+      "summary": "BEHEMOTH is an organization made up entirely of technicians. Our purpose is not only to develop software, but also to provide solutions from a technical standpoint and grow alongside our customers by leveraging our members' strengths.",
+      "planing": "PLANNING",
+      "planing_content": "We pride ourselves in understanding customer's issues and devising tailored solutions. Let us know what keeps you awake at night, and we'll provide you with the exact solutions you need.",
+      "technology": "TECHNOLOGY",
+      "technology_content": "We are fascinated by technology! Our team contributes to a number of well-known open source software projects. We believe that technological advancement will benefit our customers in the long run.",
+      "dedication": "DEDICATION",
+      "dedication_content": "All BEHEMOTH members love developing software, but the right solutions along with unparalleled customer service are what we aim to offer."
+    },
+    "timeline": {
+      "title1": "UNRELENTING",
+      "title2": "DREAM",
+      "title3": "REALIZATION",
+      "time1": "2 year anniversary with 24 core members",
+      "time2": "1 year anniversary with 9 core members",
+      "time3": "Founded with 2 co-founders"
+    }
+  }
+}
