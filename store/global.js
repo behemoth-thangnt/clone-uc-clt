@@ -6,8 +6,18 @@ export const useGlobalStore = defineStore("global", {
       lang: "",
     };
   },
+
+  actions: {
+    setToken(token) {
+      this.token = token; // set token
+    },
+    removeToken() {
+      this.token = null; // remove token
+    }
+  },
+
   persist: {
     storage: persistedState.localStorage,
-    paths: ["lang"],
+    paths: ["lang", "token"],
   },
 });

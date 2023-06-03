@@ -85,7 +85,8 @@ export default defineComponent({
         const token = get(data, "data.data.adminsSignIn.token");
 
         if (token) {
-          store.token = token;
+          store.setToken(token);
+
           message.success("Success");
           router.push("/");
         } else {

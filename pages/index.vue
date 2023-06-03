@@ -34,10 +34,11 @@ import HomeOffer from "@/components/homepage/HomeOffer.vue";
 import Technologies from "@/components/homepage/Technologies.vue";
 import OurClients from "@/components/homepage/OurClients.vue";
 import ContactUs from "@/components/homepage/ContactUs.vue";
+// import { useGlobalStore } from "@/store/global";
 
-import { useFetchByGraphQl } from "@/repositories/index.js";
-import { getExample } from "@/graphql/home/index.js";
-import { ref } from "vue";
+// import { useFetchByGraphQl } from "@/repositories/index.js";
+// import { getExample } from "@/graphql/home/index.js";
+// import { ref } from "vue";
 
 export default {
   components: {
@@ -49,19 +50,7 @@ export default {
     ContactUs,
   },
 
-  setup() {
-    const axios = useNuxtApp().$axios;
-    const data = ref({});
-
-    //   onMounted(async () => {
-    //     data.value = await useFetchByGraphQl(axios, getExample, {});
-    //   });
-
-    //   return {
-    //     data,
-    //   };
-    // },
-  },
+  setup() {},
 };
 </script>
 
